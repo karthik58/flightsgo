@@ -14,7 +14,7 @@ function App(props) {
   return (
     <div className="App">
       <header className="App-header">
-        <h2>FlightsGo App</h2>
+        <h2>FlightsGo</h2>
       </header>
       <section className="Main-container">
         <aside className="Search-section">

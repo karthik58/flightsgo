@@ -1,5 +1,5 @@
 {
-  "short_name": "Flight Search App",
+  "short_name": "FlightGo",
   "name": "Find your flight",
   "icons": [
     {
@@ -10,6 +10,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#4267B2",
   "background_color": "#ffffff"
 }
